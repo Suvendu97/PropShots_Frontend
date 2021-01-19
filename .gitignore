@@ -1,0 +1,4 @@
+node_modules/
+.env
+app/bundled.js
+app/bundled.js.map

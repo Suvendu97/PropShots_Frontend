@@ -1,0 +1,438 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+#Web_1920__2-_Home_Page {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+#webaliser-_TPTXZd9mOo-unsplash {
+  position: absolute;
+  width: 100.6%;
+  height: 134.24%;
+  top: -17.12%;
+}
+#Group_2 {
+  mix-blend-mode: overlay;
+  position: absolute;
+  width: 100.36%;
+  height: 100%;
+  /*left: 0px;*/
+  /*top: 0px;*/
+}
+#Rectangle_25_bw {
+  fill: url(#Rectangle_25_bw);
+  width: 100.36%;
+  height: 100%;
+}
+.Rectangle_25_bw {
+  position: absolute;
+  width: 100.36%;
+  height: 100%;
+}
+#Rectangle_26 {
+  fill: rgba(5, 0, 0, 0.29);
+  width: 100%;
+  height: 100%;
+}
+.Rectangle_26 {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  /* left: -6px; */
+}
+#PropShots {
+  left: 4.9%;
+  top: 9%;
+  position: relative;
+  width: 14%;
+  font-weight: bold;
+  font-size: 3vw;
+  color: rgba(255, 252, 252, 1);
+}
+#Group_3 {
+  position: absolute;
+  width: 47.96%;
+  height: 28.61%;
+  left: 27.8%;
+  top: 59%;
+}
+#Rectangle_27_b {
+  fill: url(#Rectangle_27_b);
+  width: 4.5vw;
+  height: 32.3vh;
+}
+.Rectangle_27_b {
+  position: absolute;
+  width: 65px;
+  height: 200px;
+  left: 4.943px;
+  top: 9px;
+}
+#Rectangle_31_b {
+  fill: url(#Rectangle_31_b);
+  width: 36.6vw;
+  height: 3vw;
+}
+.Rectangle_31_b {
+  position: absolute;
+  width: 68.2%;
+  height: 21.35%;
+  left: 14.48%;
+  top: 94%;
+}
+#Let_us_Tell_The_World_About_it {
+  left: 16.7%;
+  top: 92.5%;
+  position: absolute;
+  width: 100.82%;
+  font-size: 2.5vw;
+  color: rgba(255, 252, 252, 1);
+}
+#Rectangle_30_b {
+  opacity: 0.817;
+  fill: url(#Rectangle_30_b);
+  width: 8vw;
+  height: 18vh;
+}
+.Rectangle_30_b {
+  position: absolute;
+  overflow: visible;
+  width: 17px;
+  height: 20px;
+  left: 64.33%;
+  /* top: -2px; */
+}
+#Willing_to_Offer {
+  left: 4%;
+  top: 20%;
+  position: absolute;
+  width: 65%;
+  line-height: 2vh;
+  margin-top: -10.5px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2.9vw;
+  color: rgba(255, 252, 252, 1);
+}
+#_Discount {
+  left: 13%;
+  position: absolute;
+  top: 20%;
+  width: 10vw;
+  height: 10vh;
+  font-weight: bold;
+  font-size: 5.4vw;
+  color: rgba(255, 252, 252, 1);
+}
+#your_Property {
+  left: 14%;
+  top: 60%;
+  position: absolute;
+  width: 100%;
+  font-size: 3.5vw;
+  color: rgba(255, 252, 252, 1);
+  letter-spacing: 5.41px;
+}
+#On {
+  left: 65.67%;
+  top: 23.15%;
+  position: absolute;
+  font-weight: bold;
+  font-size: 60px;
+  color: rgba(255, 253, 254, 1);
+}
+#A {
+  left: 6.943px;
+  top: 16.5%;
+  position: absolute;
+  width: 9%;
+  line-height: 162px;
+  margin-top: -19.5px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 5vw;
+  color: rgba(255, 255, 255, 1);
+}
+#Group_7 {
+  position: absolute;
+  width: 8.41%;
+  height: 6.2%;
+  left: 71.35%;
+  top: 10.277%;
+  cursor: pointer;
+}
+#Rectangle_32 {
+  fill: rgba(255, 255, 255, 1);
+  width: 100%;
+  height: 100%;
+  max-width: 8vw;
+  min-width: 5vw;
+  max-height: 8vh;
+  min-height: 5vh;
+  rx: 23.5;
+  ry: 23.5;
+  x: 0;
+  y: 0;
+}
+.Rectangle_32 {
+  position: absolute;
+  overflow: visible;
+  width: 100%;
+  height: 100%;
+}
+#Sign_up {
+  left: 20%;
+  top: 15%;
+  position: absolute;
+  width: 100%;
+  font-size: 1.5vw;
+  color: rgba(235, 73, 94, 1);
+}
+#Group_8 {
+  position: absolute;
+  width: 8.41%;
+  height: 6.2%;
+  left: 81.35%;
+  top: 10.277%;
+  cursor: pointer;
+}
+#Log_in {
+  left: 22%;
+  top: 15%;
+  position: absolute;
+  width: 100%;
+  font-size: 1.5vw;
+  color: rgba(235, 73, 94, 1);
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+  /* display: none; */
+  position: fixed;
+  /*bottom: 8%;*/
+  /*right: 15px;*/
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+  /* left: 40%; */
+  align: center;
+}
+/* Add styles to the form container */
+.form-container {
+  max-width: 400px;
+  min-height: 400px;
+  padding: 10px;
+  /* left: 40%; */
+  align: center;
+  background-color: white;
+  border-radius: 15px;
+}
+.form-container-verify-no {
+  max-width: 100% !important;
+  min-height: inherit !important;
+}
+/* Full-width input fields */
+.form-container input[type="text"],
+.form-container input[type="Number"],
+.form-container input[type="email"],
+.form-container input[type="phone"] {
+  width: 90%;
+  height: 20px;
+  padding: 15px;
+  margin: 15px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+  border-radius: 50px;
+}
+/* When the inputs get focus, do something */
+.form-container input[type="text"]:focus,
+.form-container input[type="Number"]:focus,
+.form-container input[type="email"]:focus,
+.form-container input[type="phone"]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+  background-color: #ed1c24;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 10px;
+  opacity: 0.8;
+}
+.form-container-verify-no .btn {
+  background-color: #ed1c24;
+  color: white !important;
+  opacity: 0.9 !important;
+}
+/* Add some hover effects to buttons */
+.form-container .btn:hover,
+#Group_7:hover,
+#Group_8:hover {
+  opacity: 1;
+}
+
+#loginOption {
+  max-width: 400px;
+  height: auto;
+  padding: 10px;
+  background-color: white;
+  border-radius: 20px;
+}
+.a {
+  position: absolute;
+  color: black;
+  left: 25%;
+  font-size: 26px;
+  margin-top: 3%;
+}
+.b {
+  position: absolute;
+  left: 13%;
+  font-size: 2px;
+  margin-top: 2%;
+}
+.loginform-popup {
+  /* display: none; */
+  position: fixed;
+  /*bottom: 8%;*/
+  /*right: 15px;*/
+  z-index: 9;
+  left: 40%;
+}
+.loginoptionform-popup {
+  /* display: none; */
+  width: 400px;
+  height: auto;
+  position: fixed;
+  /*bottom: 8%;*/
+  /*right: 15px;*/
+  z-index: 9;
+  left: 40%;
+}
+.otpform-popup {
+  /* display: none; */
+  position: fixed;
+  /*bottom: 8%;*/
+  /*right: 15px;*/
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+  left: 40%;
+}
+
+/*#otpform {
+  max-width: 400px;
+  padding: 10px;
+  background-color: white;
+}*/
+.cancel {
+  position: absolute;
+  right: 4%;
+  width: 7%;
+  height: 7%;
+}
+.prop {
+  text-align: center;
+  color: #ed1c24;
+}
+.desc {
+  text-align: center;
+  /*margin-left: 10%; */
+  /*margin-left: 10%;*/
+}
+.content {
+  margin-left: 7%;
+  margin-right: 7%;
+}
+.sociallogo {
+  cursor: pointer;
+  /* margin-top: 5%; */
+}
+.sociallogo img {
+  height: 13%;
+  width: 92%;
+  position: relative;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+#getapp img {
+  height: 2.5%;
+  width: 35%;
+  position: relative;
+  margin-left: 9.5%;
+}
+
+#troubleLin {
+  text-align: center;
+}
+#gettheapp {
+  text-align: center;
+}
+
+.modal-body {
+  overflow-y: auto;
+  /* padding-right: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px; */
+  /* display: none; */
+  position: absolute;
+  top: 15%;
+
+  /*bottom: 8%;*/
+  /*right: 15px;*/
+  /* border: 3px solid #f1f1f1; */
+  width: 30%;
+  left: 40%;
+  position: fixed;
+  /*bottom: 8%;*/
+  /*right: 15px;*/
+}
+
+.contactform>.modal-content>.modal-body{
+  width: 40%;
+  left: 35%;
+}
+
+
+
+#abc {
+  display: none;
+}
+
+#resend {
+  color: blue;
+  cursor: pointer;
+}
+
+#telinput {
+  /* position: absolute; */
+  height: 35px;
+  width: 70%;
+}
+.form-control {
+  margin-left: 19%;
+  width: 75%;
+  height: 45px;
+  /* position: absolute; */
+}
+.special-label {
+  display: none;
+}
+#phoneinput {
+  /* display: flex; */
+}
+#countrycode {
+  width: 45px;
+  height: 49px;
+  position: absolute;
+  font-weight: 100;
+}
